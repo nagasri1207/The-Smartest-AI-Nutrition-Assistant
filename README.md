@@ -2,7 +2,7 @@
 An AI-powered assistant designed to help users achieve their health and wellness goals with personalized, science-backed nutritional guidance. Built using IBM Watsonx.ai and Retrieval-Augmented Generation (RAG), this intelligent agent provides reliable advice on meal planning, healthy recipes, dietary needs, and more.
 ---
 
-![ai](ai.jpg)
+![ai](ai.png)
 
 ---
 
