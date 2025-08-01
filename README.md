@@ -102,12 +102,6 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 
 ---
 
-## Recordings (Watch to Build on Your Own)
-▶️ [Part 1: Building the Nutrition Agent](https://youtu.be/oanWlnqpiP4)
-▶️ [Part 2: Testing, Deployment, and RAG Setup](https://youtu.be/SfwFLWpIVdk)
-
----
-
 ## 📌 How to Run or Deploy
 
 1. Log in to IBM Cloud Lite: https://cloud.ibm.com
@@ -147,11 +141,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-profile-url/)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/nagasri-bondili-13959126a/)
 
 ---
 
-> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **Your Name**
+> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **BONDILI NAGASRI**
 
 
 
