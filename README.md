@@ -98,7 +98,7 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 ### 🔹 API References for Integration...
 ![api _references](links.jpg)
 ### 🔹 Example of a Resource List...
-![resourses_list.jpg](resourses_list.jpg)
+![resourses_list.jpg](resources_list.jpg)
 
 ---
 
