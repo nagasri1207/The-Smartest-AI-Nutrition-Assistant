@@ -145,7 +145,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Created with 💙 during the IBM SkillsBuild for Academia Internship 2025 by **BONDILI NAGASRI**
+> Created with 💙 during the IBM SkillsBuild Internship 2025 by **BONDILI NAGASRI**
 
 
 
